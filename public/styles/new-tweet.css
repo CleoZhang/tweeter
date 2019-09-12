@@ -1,0 +1,27 @@
+textarea {
+  width: 100%;
+  padding: 20px 20px;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 3px solid #663300;
+  background-color: #f4f1ec;
+  resize: none;
+}
+
+input[type=submit] {
+  padding:5px 15px; 
+  background:#4056A1; 
+  border:0 none;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; 
+  font-family: 'Bungee', cursive;
+  color: #FFFFFF;
+  margin: 5px;
+  float:left;
+}
+
+span {
+  font-family: 'Bungee', cursive;
+  float:right;
+}
