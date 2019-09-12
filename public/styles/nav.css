@@ -11,4 +11,5 @@ nav {
  nav span {
   font-family: 'Bungee', cursive;
   font-size: 55px;
+  float: left;
  }
